@@ -1,0 +1,7 @@
+{
+	"search.showLineNumbers": true,
+	"search.maintainFileSearchCache": true,
+	"search.exclude": {
+		"build":true,
+	},
+}

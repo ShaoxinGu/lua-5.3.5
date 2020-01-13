@@ -1,2 +1,0 @@
-﻿  lua.c
-LINK : fatal error LNK1209: 程序数据库“E:\Downloads\lua-5.3.5\build\Debug\lua.pdb”与上一个链接不同；请重新链接或重新生成
